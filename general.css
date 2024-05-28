@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    padding-top: 75px;
+    padding-left: 89px;
+    background-color: rgb(250, 249, 249);
+    padding-right: 26px;
+}
+/* Inline Elements appear within a block of element*/
